@@ -60,6 +60,11 @@
         <module>itstack-demo-design-22-00</module>
     </modules>
 
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
         <dependency>
